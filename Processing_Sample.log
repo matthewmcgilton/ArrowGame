@@ -1,0 +1,22 @@
+﻿  Credits.c
+  defeated.c
+  enemies.c
+  globalvars.c
+  GS_game.c
+  GS_logo.c
+  GS_menu.c
+  GS_waveend.c
+  main.c
+  player.c
+  Score.c
+  wavetransitions.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 126 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Processing_Sample.vcxproj -> C:\Users\Matthew\Desktop\GamePrototype\Release\Processing_Sample.exe
+  1 File(s) copied
+  1 File(s) copied
+  1 File(s) copied
+  1 File(s) copied
+  74 File(s) copied
